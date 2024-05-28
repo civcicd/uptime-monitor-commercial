@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sparc.concorde2000.com.ico",
     "slug": "sparc",
     "status": "up",
-    "uptime": "48.12%",
-    "uptimeDay": "48.12%",
-    "uptimeWeek": "48.12%",
-    "uptimeMonth": "48.12%",
-    "uptimeYear": "48.12%",
-    "time": 216,
-    "timeDay": 216,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "uptime": "48.27%",
+    "uptimeDay": "48.27%",
+    "uptimeWeek": "48.27%",
+    "uptimeMonth": "48.27%",
+    "uptimeYear": "48.27%",
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2024-05-28": 286
     }
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-28": 551
+      "2024-05-28": 553
     }
   },
   {
@@ -44,17 +44,17 @@
     "url": "https://engage.concorde2000.com",
     "icon": "https://icons.duckduckgo.com/ip3/engage.concorde2000.com.ico",
     "slug": "concorde-help",
-    "status": "up",
-    "uptime": "96.50%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "96.50%",
-    "uptimeYear": "96.50%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "status": "down",
+    "uptime": "96.49%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "96.49%",
+    "uptimeYear": "96.49%",
+    "time": 288,
+    "timeDay": 288,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2024-05-28": 19
     }
@@ -70,13 +70,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-05-28": 551
+      "2024-05-28": 553
     }
   },
   {
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 253,
-    "timeWeek": 253,
-    "timeMonth": 253,
-    "timeYear": 253,
+    "time": 227,
+    "timeDay": 227,
+    "timeWeek": 227,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -103,16 +103,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fasttest.concorde2000.com.ico",
     "slug": "fast-test",
     "status": "up",
-    "uptime": "48.17%",
-    "uptimeDay": "48.17%",
-    "uptimeWeek": "48.17%",
-    "uptimeMonth": "48.17%",
-    "uptimeYear": "48.17%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "uptime": "48.31%",
+    "uptimeDay": "48.31%",
+    "uptimeWeek": "48.31%",
+    "uptimeMonth": "48.31%",
+    "uptimeYear": "48.31%",
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2024-05-28": 286
     }
@@ -123,16 +123,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smart.concorde2000.com.ico",
     "slug": "smart",
     "status": "up",
-    "uptime": "48.21%",
-    "uptimeDay": "48.21%",
-    "uptimeWeek": "48.21%",
-    "uptimeMonth": "48.21%",
-    "uptimeYear": "48.21%",
-    "time": 513,
-    "timeDay": 513,
-    "timeWeek": 513,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "uptime": "48.35%",
+    "uptimeDay": "48.35%",
+    "uptimeWeek": "48.35%",
+    "uptimeMonth": "48.35%",
+    "uptimeYear": "48.35%",
+    "time": 405,
+    "timeDay": 405,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2024-05-28": 285
     }
@@ -154,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-28": 550
+      "2024-05-28": 552
     }
   },
   {
@@ -168,11 +168,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 605,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "time": 611,
+    "timeDay": 611,
+    "timeWeek": 611,
+    "timeMonth": 611,
+    "timeYear": 611,
     "dailyMinutesDown": {}
   },
   {
@@ -186,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 309,
-    "timeWeek": 309,
-    "timeMonth": 309,
-    "timeYear": 309,
+    "time": 326,
+    "timeDay": 326,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   }
 ]
