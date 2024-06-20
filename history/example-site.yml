@@ -1,7 +1,7 @@
 url: https://hello-world-web-app-template.azurewebsites.net
-status: down
-code: 403
-responseTime: 324
-lastUpdated: 2024-06-20T13:32:06.039Z
+status: up
+code: 200
+responseTime: 348
+lastUpdated: 2024-06-20T13:59:23.911Z
 startTime: 2024-06-20T13:09:58.879Z
 generator: Upptime <https://github.com/upptime/upptime>
