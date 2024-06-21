@@ -23,8 +23,6 @@ sites:
     url: https://concordeanalytics.com
   - name: AppCheck
     url: https://www09.8f7.com
-  - name: Example Site
-    url: https://hello-world-web-app-template.azurewebsites.net
 
 
 status-website:
