@@ -4,18 +4,19 @@
     "url": "https://sparc.concorde2000.com",
     "icon": "https://icons.duckduckgo.com/ip3/sparc.concorde2000.com.ico",
     "slug": "sparc",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "99.35%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 326,
     "timeDay": 476,
     "timeWeek": 328,
     "timeMonth": 326,
     "timeYear": 326,
     "dailyMinutesDown": {
+      "2024-06-28": 1,
       "2024-05-28": 286
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-28": 33,
+      "2024-06-28": 68,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -123,7 +124,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-06-28": 33,
+      "2024-06-28": 68,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
@@ -180,10 +181,10 @@
     "url": "https://fasttest.concorde2000.com/Login.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/fasttest.concorde2000.com.ico",
     "slug": "fast-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.35%",
     "time": 316,
@@ -192,6 +193,7 @@
     "timeMonth": 316,
     "timeYear": 316,
     "dailyMinutesDown": {
+      "2024-06-28": 1,
       "2024-05-28": 286
     }
   },
@@ -200,9 +202,9 @@
     "url": "https://smart.concorde2000.com",
     "icon": "https://icons.duckduckgo.com/ip3/smart.concorde2000.com.ico",
     "slug": "smart",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.35%",
@@ -212,6 +214,7 @@
     "timeMonth": 436,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2024-06-28": 0,
       "2024-05-28": 285
     }
   },
@@ -232,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-28": 33,
+      "2024-06-28": 68,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
