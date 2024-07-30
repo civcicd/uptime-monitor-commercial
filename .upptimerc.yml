@@ -23,18 +23,6 @@ sites:
     url: https://concordeanalytics.com
   - name: AppCheck
     url: https://www09.8f7.com
-  - name: AF E-Opto Api
-    url: https://af-e-opto-web-app-serv-api-01.azurewebsites.us
-  - name: AF E-Opto Frontend
-    url: https://af-e-opto-web-app-serv-client-01.azurewebsites.us
-  - name: AF Quick Errors Api
-    url: https://af-qk-errors-serv-api-01.azurewebsites.us
-  - name: AF Quick Errors Frontend
-    url: https://af-qk-errors-web-app-serv-client-01.azurewebsites.us
-  - name: AF Password Reset Api
-    url: https://af-passwd-reset-app-serv-api-01.azurewebsites.us
-  - name: AF Password Reset Frontend
-    url: https://af-passwd-reset-web-app-client-01.azurewebsites.us
 
 
 status-website:
